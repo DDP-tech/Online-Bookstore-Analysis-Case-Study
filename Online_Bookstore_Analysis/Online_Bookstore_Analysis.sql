@@ -1,7 +1,6 @@
 -- Online Bookstore Data Analysis
 -- Tools: PostgreSQL
 -- Description:
--- Description:
 -- This SQL script presents structured solutions for fundamental and advanced
 -- data analysis tasks conducted on an online bookstore dataset, emphasizing
 -- customer behavior, sales performance, and stock optimization.
